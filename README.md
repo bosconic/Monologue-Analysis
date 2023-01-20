@@ -2,7 +2,7 @@
 1. By: Nicholas Bosco
 2. Topic: Monologue Sentiment Analysis
 
-This is the associated `README.md` file that accompanies the Monologue Sentiment Analysis Python Notebook (.ipyb)
+This is the associated `README.md` file that accompanies the Monologue Sentiment Analysis Python Notebook (.ipyb). The Operation of this project would not be possible without the usage of Google Colaboratory.
 
 # Background Information
 
